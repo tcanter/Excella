@@ -36,7 +36,7 @@
         "VS-2017-RC1-Ent-WS2012R2"
       ],
       "metadata": {
-        "description": "Which version of Visual Studio you would like to deploy"
+        "description": "Excella User -> Which version of Visual Studio you would like to deploy"
       }
     },
     "vmIPPublicDnsNamePrefix": {
